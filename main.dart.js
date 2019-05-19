@@ -36337,7 +36337,7 @@ u=u[3]
 return Math.sqrt(t*t+s*s+r*r+u*u)}}
 F.yJ.prototype={
 M:function(a){var u=null
-return new S.kR(new F.yK(u),"Flutter Demo",X.Ju(u,"Roboto",u,new Q.J(4278213029),u),!1,u)}}
+return new S.kR(new F.yK(u),"Elias Dolinsek",X.Ju(u,"Roboto",u,new Q.J(4278213029),u),!1,u)}}
 F.yK.prototype={
 M:function(a){var u=null,t=K.aN(a,!1).b
 return M.LU(u,M.is(u,new T.h2(C.W,u,u,T.uX(H.h([L.e0("Elias Dolinsek",A.e1(u,u,C.k,u,u,u,u,u,u,48,u,C.aj,u,u,!0,u,u,u,u,u,u),u),new T.cu(u,8,u,u),new T.cb(new V.aq(16,0,16,0),L.e0("Website was made using Flutter for Web, just for fun and training!",A.e1(u,u,C.k,u,u,u,u,u,u,24,u,C.du,u,u,!0,u,u,u,u,u,u),C.b6),u),new T.cu(u,64,u,u),new G.po("STOPWATCH",C.v,C.k,new F.yM(a),u)],[N.a8]),C.aG,C.bt,C.aL),u),t,u,u,u,u,u))}}
